@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: student
+      host: vivekmongodb
+      port: 27017
